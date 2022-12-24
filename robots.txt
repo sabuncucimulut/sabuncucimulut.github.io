@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sabuncucimulut.github.io/sitemap.xml
